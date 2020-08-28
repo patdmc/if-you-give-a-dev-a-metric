@@ -74,17 +74,17 @@ module.exports = {
             note: 'devs unify their dashboard'
         },
         {
-            line: `Which is great unti they realize when something goes wrong, they still have to page a specific team`,
+            line: `Which is great unti they realize when something goes wrong, they still have to page a specific team to fix it`,
             page: 16,
             note: 'devs still frantic while another dev sleeps'
         },
         {
-            line: `So then they write production runbooks, so they can cover more issues with a single support rotation and they are on call less`,
+            line: `Then they're going to want write production runbooks, and they can cover more issues with a single support rotation and they are on call less without the App breaking unawares`,
             page: 17,
             note: 'one dev handling an incident while other devs play'
         },        
         {
-            line: `And this works reduces production overhead, freeing up the devs to build more new features`,
+            line: `All this reduces production overhead, freeing up the devs to build more new features`,
             page: 18,
             note: 'Devs building unicorns'
         },
@@ -94,7 +94,7 @@ module.exports = {
             note: 'unicorns shipping'
         },
         {
-            line: `The devs are going to want more metrics (but this time with graphs and production runbooks)`,
+            line: `They're going to want more metrics (but this time with graphs and production runbooks)`,
             page: 20,
             note: 'Back to the first page'
         },
