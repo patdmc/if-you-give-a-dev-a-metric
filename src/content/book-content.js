@@ -19,7 +19,7 @@ module.exports = {
             note: 'now show a graph with yellow and red areas'
         },
         {
-            text: `The dev will love their graph, and when they release code they check the graph to make sure the app is working as expected.`,
+            text: `The dev loves their graph, and when they release code they check the graph to make sure their app is working as expected.`,
             page: 4,
             note: 'show a happy dev shipping code by pressing a button while looking at the graph'
         },
@@ -29,62 +29,67 @@ module.exports = {
             note: 'replace the graph with a stoplight'
         },
         {
-            text: `And once it's that simple, the dev will want to set up an alert, so they don't always have to check the graph to know the app is OK`,
-            page: 7,
+            text: `And once it's simple, the dev will want to set up an alert, so they don't always have to check the graph to know the app is OK`,
+            page: 6,
             note: 'red light, dev getting paged on phone'
         },
         {
-            text: `But with only one alert, sometimes bad stuff happens without the dev knowing...`,
-            page: 8,
+            text: `With only one alert, sometimes bad stuff happens without the dev knowing...`,
+            page: 7,
             note: 'dev with phone showing nothing, light greem, PC Load Letter for the app'
         },
         {
             text: `And the dev is going to want more metrics.`,
-            page: 9,
+            page: 8,
             note: 'dev with dashboard with lots of metrics'
         },
         {
-            text: `The dev is happy, but sometimes when things go bad on their app, its another team's app that caused it`,
-            page: 10,
+            text: `The dev is happy, but sometimes when things go bad on their app, its another team's app that caused it..`,
+            page: 9,
             note: 'dev with dashboard showing other app failing'
         },
         {
             text: `And the dev is going to show that team their dashboard and monitors, and get them to set some up too`,
-            page: 11,
+            page: 10,
             note: 'dev showing off their dashboard'
         },
         {
-            text: `And the other devs love it, and start getting creative making their own dashboards and alerts`,
-            page: 12,
+            text: `The other devs love it, and start getting creative making their own dashboards and alerts`,
+            page: 11,
             note: 'more devs, with custom crazy dashboards shaped like rocketships and unicorns'
         },
         {
-            text: `All the devs are happy, until something systemic goes wrong and they struggles to see the root cause`,
-            page: 13,
+            text: `All the devs are happy, until something systemic goes wrong and they struggle to see the source of the problem...`,
+            page: 12,
             note: 'devs pointing fingers'
         },
         {
-            text: `This happens a few times and they realize it's taking too long to figure out the root cause, especially if one team or another doesn't respond`,
+            text: `After this happens a few times, they realize it's taking too long to figure out the root cause, especially if one team or another doesn't respond right away...`,
+            page: 13,
+            note: 'devs frantic while another dev sleeps'
+        },
+        {
+            text: `And far too many of the devs are on call. Everytime something goes wrong a bunch of devs from different teams have to scramble.`,
             page: 14,
             note: 'devs frantic while another dev sleeps'
         },
         {
-            text: `But the devs like sleep, and they dont all want to wake up and scramble every time something goes wrong... so they decide to make a single dashboard they all share`,
+            text: `The devs like sleep, and they dont all want to wake up and scramble every time something goes wrong... so they decide to make a single dashboard they all share`,
             page: 15,
             note: 'devs unify their dashboard'
         },
         {
-            text: `Which is great until they realize when something goes wrong, they still have to page a specific team to fix it`,
+            text: `But when something goes wrong, they still have to page a specific team to fix it.`,
             page: 16,
             note: 'devs still frantic while another dev sleeps'
         },
         {
-            text: `Then they're going to want write production runbooks so they can cover more issues with a single support rotation`,
+            text: `Then the devs are going to want write production runbooks so they can cover more issues with a single support rotation`,
             page: 17,
             note: 'one dev handling an incident while other devs play'
         },
         {
-            text: `The Devs are happy. They are on call less and have less production overhead, freeing them up to build new features`,
+            text: `The devs are happy. They are on call less and have less production overhead, freeing them up to build new features`,
             page: 18,
             note: 'Devs building unicorns'
         },
