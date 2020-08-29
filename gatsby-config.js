@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `If You Give a Dev a Metric`,
+    title: `If You Give a Dev a Metric: A story about Application Observability`,
     description: `Find out what happens when you give a software developer more information about their code`,
     author: `@patdmc`,
   },
