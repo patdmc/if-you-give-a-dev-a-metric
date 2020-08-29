@@ -84,7 +84,7 @@ module.exports = {
             note: 'devs still frantic while another dev sleeps'
         },
         {
-            text: `Then the devs are going to want write production runbooks so they can cover more issues with a single support rotation`,
+            text: `But after a few incidents, they decide to document how to respond to different problems so they can cover more potential issues with a single support rotation`,
             page: 17,
             note: 'one dev handling an incident while other devs play'
         },
@@ -94,13 +94,18 @@ module.exports = {
             note: 'Devs building unicorns'
         },
         {
-            text: `And once they've shipped all these new features...`,
+            text: `The business is also happy, because the number of incidents is down, and the time to resolution is consistently fast`,
             page: 19,
+            note: 'Devs building unicorns'
+        },
+        {
+            text: `And once they've shipped all these new features...`,
+            page: 20,
             note: 'unicorns shipping'
         },
         {
             text: `They're going to want more metrics`,
-            page: 20,
+            page: 21,
             note: 'Back to the first page'
         },
 
